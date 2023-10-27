@@ -28,10 +28,6 @@ Access the Application: Visit http://localhost:8000 in your web browser to inter
 
 
 ### Products
-- **GET /tasks/tasks :** Retrieve a list of all tasks relates to a user.
-- **POST /task/create :** Create a new task.
-- **PUT /tasks/update/:id :** Update an existing task.
-- **DELETE /tasks/delete/:id :** Delete a product.
 
 
 
